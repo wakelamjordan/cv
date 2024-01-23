@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {
+            "editor.selectionBackground": "#6969f094",
+            "editor.selectionHighlightBackground": "#6969f094"
+        },
+        "activityBar.background": "#4F0E56",
+        "titleBar.activeBackground": "#6E1479",
+        "titleBar.activeForeground": "#FEFCFE"
+    },
+    "liveServer.settings.port": 5501
+}
