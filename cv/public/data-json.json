@@ -1,0 +1,97 @@
+{
+  "profile": {
+    "name": "Jordan Wakelam",
+    "title": "Développeur Web orienté Back-end",
+    "photo": {
+      "src": "https://wakelamjordan.github.io/img/original.jpg",
+      "alt": "photo de Jordan Wakelam"
+    },
+    "birth": "1990-07-28",
+    "contact": {
+      "email": "jwakelams@gmail.com",
+      "phone": "+33 6 41 16 23 13",
+      "location":"France, Éssonne",
+      "website": "https://wakelamjordan.github.io/",
+      "linkedin": "https://www.linkedin.com/in/jordan-wakelam-350a24241",
+      "github": "https://github.com/wakelamjordan"
+    }
+  },
+  "summary": "Développeur web junior déterminé, avec une spécialisation en Symfony et React. Ancien militaire, je fais preuve de rigueur et d'adaptabilité dans toutes mes missions. Curieux et passionné, je m'efforce de comprendre et d'apprendre en continu pour progresser et atteindre mes objectifs.",
+  "experience": [
+    {
+      "jobTitle": "Développeur Web",
+      "company": "LivinWeb Intersel",
+      "location": "Paris",
+      "startDate": "03/2024",
+      "endDate": "05/2024",
+      "responsibilities": [
+        "Réalisation d’un portail Web avec conception et templating.",
+        "Conception d’un module de génération IA et SEO avec API REST.",
+        "Adaptation d’un existant en un modèle de ressource pour la réalisation d’un blog.",
+        "Conception et intégration d’un module de détection de langue."
+      ],
+      "projectLink": "https://onehealth.renaultgroup.com/"
+    },
+    {
+      "jobTitle": "Chef de groupe appui mouvement",
+      "company": "Ministère des Armées - Armée de terre",
+      "location": "France",
+      "startDate": "2012",
+      "endDate": "2023",
+      "responsibilities": [
+        "Encadrement et gestion d’une équipe pour des missions de soutien.",
+        "Développement des compétences en gestion de groupe et en leadership.",
+        "Adaptation et réactivité face aux défis logistiques et stratégiques."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Licence professionnelle en informatique - Web, Mobile et Business Intelligence",
+      "school": "Le Cnam Paris",
+      "location": "Paris, France",
+      "graduationDate": "2025",
+      "startDate": "2024"
+    },
+    {
+      "degree": "Titre Professionnel niveau 5 - Développeur Web et Web Mobile",
+      "school": "CMFP",
+      "location": "France",
+      "graduationDate": "2024",
+      "startDate": "2023"
+    }
+  ],
+  "skills": [
+    "PHP",
+    "JavaScript",
+    "Symfony",
+    "Api-Plateform",
+    "React",
+    "Tailwind CSS",
+    "BootStrap"
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "level": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "level": "Professionnel"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Bricolage et réparation",
+      "description": "Passionné par le bricolage et la réparation d'appareils électroniques, toujours à la recherche de solutions pour donner une seconde vie aux objets."
+    },
+    {
+      "name": "Dessin",
+      "description": "Pratique du dessin sur support traditionnel et numérique, notamment à l'aide d'une tablette graphique pour donner vie à des créations artistiques."
+    },
+    {
+      "name": "Animation japonaise",
+      "description": "Amateur d'animation japonaise, attiré par la richesse culturelle et la diversité des styles narratifs et visuels."
+    }
+  ]
+}
