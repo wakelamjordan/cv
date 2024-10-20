@@ -10,7 +10,7 @@
     "contact": {
       "email": "jwakelams@gmail.com",
       "phone": "+33 6 41 16 23 13",
-      "location":"France, Éssonne",
+      "location": "France, Éssonne",
       "website": "https://wakelamjordan.github.io/",
       "linkedin": "https://www.linkedin.com/in/jordan-wakelam-350a24241",
       "github": "https://github.com/wakelamjordan"
@@ -62,13 +62,34 @@
     }
   ],
   "skills": [
-    "PHP",
-    "JavaScript",
-    "Symfony",
-    "Api-Plateform",
-    "React",
-    "Tailwind CSS",
-    "BootStrap"
+    {
+      "name": "PHP",
+      "image": "https://wakelamjordan.github.io/img/php-svgrepo-com.svg"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://wakelamjordan.github.io/img/Unofficial_JavaScript_logo_2.svg"
+    },
+    {
+      "name": "Symfony",
+      "image": "https://wakelamjordan.github.io/img/symfony_black_03.svg"
+    },
+    {
+      "name": "Api-Plateform",
+      "image": "https://wakelamjordan.github.io/img/Logo_Circle%20webby%20blue.svg"
+    },
+    {
+      "name": "React",
+      "image": "https://wakelamjordan.github.io/img/React-icon.svg"
+    },
+    {
+      "name": "Tailwind CSS",
+      "image": "https://wakelamjordan.github.io/img/Tailwind_CSS_Logo.svg"
+    },
+    {
+      "name": "BootStrap",
+      "image": "https://wakelamjordan.github.io/img/Bootstrap_logo.svg"
+    }
   ],
   "languages": [
     {

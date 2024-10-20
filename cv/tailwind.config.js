@@ -14,7 +14,7 @@ module.exports = {
     },
   },
   daisyui: {
-    themes: ["winter"],
+    themes: ["light","dark","winter"],
   },
   plugins: [require("daisyui")],
 };
