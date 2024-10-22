@@ -5,8 +5,8 @@ import React from "react";
 
 const TimeLineDegree = ({ children }) => {
   return (
-    <div className="w-full">
-      <ul className="timeline timeline-vertical timeline-compact">
+    <div className="w-full md:w-auto">
+      <ul className="timeline timeline-compact timeline-vertical">
         {typeof children == "object"
           ? children.map((i, key) => {
               return (

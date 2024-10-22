@@ -5,7 +5,7 @@ import React from "react";
 
 const TimeLineJob = ({ children }) => {
   return (
-    <div className="w-full">
+    <div className="w-full md:w-auto">
       <ul className="timeline timeline-vertical timeline-compact">
         {typeof children == "object"
           ? children.map((i, key) => {
