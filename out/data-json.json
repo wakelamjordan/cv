@@ -1,0 +1,147 @@
+{
+  "profile": {
+    "name": "Jordan Wakelam",
+    "title": "Développeur Web </br> orienté Back-end",
+    "photo": {
+      "src": "https://wakelamjordan.github.io/img/original.jpg",
+      "alt": "photo de Jordan Wakelam"
+    },
+    "birth": "1990-07-28",
+    "contact": {
+      "email": "jwakelams@gmail.com",
+      "phone": "+33 6 41 16 23 13",
+      "location": "France, Éssonne",
+      "website": "https://wakelamjordan.github.io/",
+      "linkedin": "https://www.linkedin.com/in/jordan-wakelam-350a24241",
+      "github": "https://github.com/wakelamjordan"
+    }
+  },
+  "summary": "Développeur web junior déterminé, avec une spécialisation en Symfony et React. Ancien militaire, je fais preuve de rigueur et d'adaptabilité dans toutes mes missions. Curieux et passionné, je m'efforce de comprendre et d'apprendre en continu pour progresser et atteindre mes objectifs.",
+  "experience": [
+    {
+      "jobTitle": "Développeur Web",
+      "company": "LivinWeb Intersel",
+      "location": "Paris",
+      "startDate": "03/2024",
+      "endDate": "05/2024",
+      "responsibilities": [
+        "Réalisation d’un portail Web avec conception et templating.",
+        "Conception d’un module de génération IA et SEO avec API REST.",
+        "Adaptation d’un existant en un modèle de ressource pour la réalisation d’un blog.",
+        "Conception et intégration d’un module de détection de langue."
+      ],
+      "projectLink": "https://onehealth.renaultgroup.com/"
+    },
+    {
+      "jobTitle": "Chef de groupe appui mouvement",
+      "company": "Ministère des Armées - Armée de terre",
+      "location": "France",
+      "startDate": "2012",
+      "endDate": "2023",
+      "responsibilities": [
+        "Encadrement et gestion d’une équipe pour des missions de soutien.",
+        "Développement des compétences en gestion de groupe et en leadership.",
+        "Adaptation et réactivité face aux défis logistiques et stratégiques."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Licence professionnelle en informatique - Web, Mobile et Business Intelligence",
+      "school": "Le Cnam Paris",
+      "location": "Paris, France",
+      "graduationDate": "2025",
+      "startDate": "2024"
+    },
+    {
+      "degree": "Titre Professionnel niveau 5 - Développeur Web et Web Mobile",
+      "school": "CMFP",
+      "location": "France",
+      "graduationDate": "2024",
+      "startDate": "2023"
+    }
+  ],
+  "skills": {
+    "technicalSkills": [
+      {
+        "name": "PHP",
+        "image": "https://wakelamjordan.github.io/img/php-svgrepo-com.svg",
+        "exemple": "Développement de solutions backend robustes avec PHP, gestion des sessions utilisateur, traitement des formulaires et création d'API REST."
+      },
+      {
+        "name": "JavaScript",
+        "image": "https://wakelamjordan.github.io/img/Unofficial_JavaScript_logo_2.svg",
+        "exemple": "Implémentation de fonctionnalités interactives sur des sites web avec JavaScript, manipulation du DOM, intégration d'API et gestion des événements utilisateur."
+      },
+      {
+        "name": "Symfony",
+        "image": "https://wakelamjordan.github.io/img/symfony_black_03.svg",
+        "exemple": "Conception et développement d'applications web structurées avec Symfony, création de routes, gestion des entités avec Doctrine et implémentation de contrôleurs."
+      },
+      {
+        "name": "API Platform",
+        "image": "https://wakelamjordan.github.io/img/Logo_Circle%20webby%20blue.svg",
+        "exemple": "Création d'API performantes et sécurisées avec API Platform, génération automatique de documentation Swagger et gestion de la validation des données."
+      },
+      {
+        "name": "React",
+        "image": "https://wakelamjordan.github.io/img/React-icon.svg",
+        "exemple": "Développement d'interfaces utilisateur dynamiques et réactives avec React, gestion de l'état via hooks et intégration d'API pour afficher des données en temps réel."
+      },
+      {
+        "name": "Tailwind CSS",
+        "image": "https://wakelamjordan.github.io/img/Tailwind_CSS_Logo.svg",
+        "exemple": "Création d'interfaces modernes et responsives avec Tailwind CSS, utilisation des classes utilitaires pour un design rapide et flexible, et personnalisation des thèmes."
+      },
+      {
+        "name": "Bootstrap",
+        "image": "https://wakelamjordan.github.io/img/Bootstrap_logo.svg",
+        "exemple": "Mise en place de designs web adaptatifs et responsifs avec Bootstrap, utilisation des composants prédéfinis et du système de grille pour des mises en page fluides."
+      }
+    ],
+    "transferableSkills": [
+      {
+        "title": "Capacité à travailler sous pression",
+        "description": "Gère efficacement les situations de stress et de pression tout en maintenant un haut niveau de performance et de productivité.",
+        "icon": "fa-solid fa-thermometer"
+      },
+      {
+        "title": "Adaptabilité",
+        "description": "S'ajuste rapidement aux nouvelles situations, technologies ou méthodes de travail, et trouve des solutions créatives face aux changements.",
+        "icon": "fas fa-compass"
+      },
+      {
+        "title": "Résolution de problèmes",
+        "description": "Analyse les problèmes de manière logique et méthodique, identifie les solutions optimales, et les met en œuvre avec succès pour atteindre les objectifs fixés.",
+        "icon": "fas fa-lightbulb"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "language": "Français",
+      "level": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "level": "Professionnel"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Bricolage et réparation",
+      "description": "Passionné par le bricolage et la réparation d'appareils électroniques, toujours à la recherche de solutions pour donner une seconde vie aux objets.",
+      "icon": "fas fa-screwdriver-wrench"
+    },
+    {
+      "name": "Dessin",
+      "description": "Pratique du dessin sur support traditionnel et numérique, notamment à l'aide d'une tablette graphique pour donner vie à des créations artistiques.",
+      "icon": "fas fa-paintbrush"
+    },
+    {
+      "name": "Animation japonaise",
+      "description": "Amateur d'animation japonaise, attiré par la richesse culturelle et la diversité des styles narratifs et visuels.",
+      "icon": "fas fa-film"
+    }
+  ]
+}
