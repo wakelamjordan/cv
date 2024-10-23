@@ -164,6 +164,8 @@ export default function Home() {
                               src={i.image}
                               className="object-contain w-full h-full"
                               alt={`image ${i.name}`}
+                              width={100}
+                              height={100}
                             />
                           </div>
                         </div>
