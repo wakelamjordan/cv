@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Jordan Wakelam",
-    "title": "Développeur Web </br> orienté Back-end",
+    "title": "RECHERCHE DE STAGE <br> 2 À 6 MOIS",
     "photo": {
       "src": "https://wakelamjordan.github.io/img/original.jpg",
       "alt": "photo de Jordan Wakelam"
@@ -16,7 +16,7 @@
       "github": "https://github.com/wakelamjordan"
     }
   },
-  "summary": "Développeur web junior déterminé, avec une spécialisation en Symfony et React. Ancien militaire, je faispreuve de rigueur et d'adaptabilité dans toutes mes projets. Curieux et passionné, je m'efforce decomprendre et d'apprendre en continu pour atteindre mes objectifs.",
+  "summary": "Investis déterminé et assertif, passionné par la création desolutions innovantes dans les domaines de l'informatiques et duweb. Mon moteur : les nouvelles technologies et les enjeuxqu'elles incarnent dans notre quotidien.",
   "experience": [
     {
       "jobTitle": "Développeur Web",
@@ -39,9 +39,9 @@
       "startDate": "2012",
       "endDate": "2023",
       "responsibilities": [
-        "Encadrement et gestion d’une équipe pour des missions de soutien.",
+        "Encadrement et gestion d’une équipe.",
         "Développement des compétences en gestion de groupe et en leadership.",
-        "Adaptation et réactivité face aux défis logistiques et stratégiques."
+        "Planification et maintenance de matériel sensible."
       ]
     }
   ],
